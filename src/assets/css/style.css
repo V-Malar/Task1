@@ -143,18 +143,14 @@ input:hover {
 }
 
 .outview {
-  /* position: absolute;
-  top: 3in;
-  left: 9.6in; */
   padding: 0.7rem;
   font-weight: 700;
   font-family: Georgia, 'Times New Roman', Times, serif;
   box-sizing: border-box;
   color: rgb(255, 95, 127);
-  /* margin-top: -2em; */
   width: 1.5in;
   position: absolute;
-  top: 185%;
+  top: 196%;
   left: 49%;
   transform: translate(-50%, -50%);
   border-radius: 0.5rem;
