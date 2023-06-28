@@ -47,7 +47,7 @@ label, h1:hover {
 
 .initial {
   position: absolute;
-  top: 90%;
+  top: 85%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -150,7 +150,7 @@ input:hover {
   color: rgb(255, 95, 127);
   width: 1.5in;
   position: absolute;
-  top: 196%;
+  top: 190%;
   left: 49%;
   transform: translate(-50%, -50%);
   border-radius: 0.5rem;
